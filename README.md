@@ -1,5 +1,6 @@
 # PySonar
 
+## Currently being rewritten from scratch!
 This is the code for a arduino based sonar system which grabs ping lengths in cm from the ultrasonic sensor,
 sends it to a computer running the PySonar.py file on python3.5.
 
